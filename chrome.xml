@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chromechecker>
-  <time checktime="Sun, 17 May 2020 20:54:00 +0000"/>
+  <time checktime="Mon, 18 May 2020 20:54:44 +0000"/>
   <stable86>
     <manifest version="81.0.4044.138"/>
     <url codebase="https://dl.google.com/release2/chrome/ALxjVeQhsSphhMWo3rKkK4w_81.0.4044.138/"/>
@@ -12,14 +12,14 @@
     <package fp="1.54b23e544e5ef7b23bb09bd445676f6121a1ea9255670eb9c7d3879155874bde" hash="9WD70x7gmBlV2NhIF3gzwV5pj5s=" hash_sha256="54b23e544e5ef7b23bb09bd445676f6121a1ea9255670eb9c7d3879155874bde" name="81.0.4044.138_chrome_installer.exe" required="true" size="59903232"/>
   </stable64>
   <beta86>
-    <manifest version="83.0.4103.56"/>
-    <url codebase="https://dl.google.com/release2/chrome/OV9iTttHEd5sXIhfMmOb6g_83.0.4103.56/"/>
-    <package fp="1.87995bc2460b8cf991a7fe00f1e0b0317db6e4895045b3eaf2938ead56332c32" hash="4misuv2h2jr5eo/YBiRLtr21bGo=" hash_sha256="87995bc2460b8cf991a7fe00f1e0b0317db6e4895045b3eaf2938ead56332c32" name="83.0.4103.56_chrome_installer.exe" required="true" size="59837696"/>
+    <manifest version="83.0.4103.61"/>
+    <url codebase="https://dl.google.com/release2/chrome/Xicycbe890IhaaFYrq2RJQ_83.0.4103.61/"/>
+    <package fp="1.8f40e7aeeff459adec2dc48c8e0d24a0d5d47022ba05221c3aa7a2e23f060f1d" hash="m3COvF4FAZ9pWhvQf5i/rb+F8uE=" hash_sha256="8f40e7aeeff459adec2dc48c8e0d24a0d5d47022ba05221c3aa7a2e23f060f1d" name="83.0.4103.61_chrome_installer.exe" required="true" size="59842304"/>
   </beta86>
   <beta64>
-    <manifest version="83.0.4103.56"/>
-    <url codebase="https://dl.google.com/release2/chrome/APU9oa-aXOGWdtzGXPZEv5U_83.0.4103.56/"/>
-    <package fp="1.1326bf827fbb6b8d0f7ad8ff82412bb924dd9744cfde26477285dd7b69fd1e48" hash="c1u7ErBs9xvFto6QX4LT/99CemQ=" hash_sha256="1326bf827fbb6b8d0f7ad8ff82412bb924dd9744cfde26477285dd7b69fd1e48" name="83.0.4103.56_chrome_installer.exe" required="true" size="61082368"/>
+    <manifest version="83.0.4103.61"/>
+    <url codebase="https://dl.google.com/release2/chrome/WT42tsWzgpUb5ri5RFgAGA_83.0.4103.61/"/>
+    <package fp="1.02f2e0bc776d50aea809f2ee2d386c55d5d0b2b5fbefba51c37d23d8c397aa99" hash="k6D4X3ThVykWdXvZxAsi+ouXV5o=" hash_sha256="02f2e0bc776d50aea809f2ee2d386c55d5d0b2b5fbefba51c37d23d8c397aa99" name="83.0.4103.61_chrome_installer.exe" required="true" size="61026560"/>
   </beta64>
   <dev86>
     <manifest version="84.0.4143.7"/>
